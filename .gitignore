@@ -1,0 +1,6 @@
+**/build/
+**/bin/
+**/obj/
+__pycache__/
+*.class
+
